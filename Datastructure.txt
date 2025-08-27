@@ -1,0 +1,30 @@
+Crop Prediction Based on Characteristics of the Agricultural Environment Using Various Feature Selection Techniques and Classifiers
+
+IEEE Transaction on Machine Learning,Volume:10,Issue Date:March.7.2022
+
+
+Agriculture, classication, crop prediction, feature selection.
+
+Crop_Prediction
+
+
+crop_prediction
+
+
+
+
+
+crop_prediction
+
+RID
+N
+P
+K
+temperature
+humidity
+ph
+rainfall
+Recommended_Zone
+Crop_Name
+Prediction
+
